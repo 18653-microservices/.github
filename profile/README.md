@@ -45,7 +45,7 @@ docker compose up
 
 ### Step 3. Run Coffeshop Frontend
 
-clone coffee frontend repo using [MQFrontend](https://github.com/18653-microservices/sadms-frontend-employee)
+clone coffee frontend repo using [MQFrontend](https://github.com/18653-microservices/sadms-frontend)
 
 run `npm start`
 
