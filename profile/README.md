@@ -47,9 +47,11 @@ docker compose up
 
 clone coffee frontend repo using [Coffee Shop Frontend](https://github.com/18653-microservices/sadms-frontend)
 
-run `npm start`
+run `npm run setup`
 
-Note: Frontend will run on port 3000
+run `npm run dev`
+
+Note: Frontend will run on port 3000 and 3001
 
 
 ### Step 4. Run MQ dashboard
