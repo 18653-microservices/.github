@@ -63,13 +63,13 @@ clone mq dashboard repo using [MQdashboard](https://github.com/18653-microservic
 We recommend using pnpm. If you want to use `npm`, just replace `pnpm` with `npm`.
 
 ```bash
-pnpm install
+npm install
 ```
 
 **start the development server.**
 
 ```bash
-pnpm run dev
+npm run dev
 ```
 
 Note: this is also running on port 3000, which already be taken by coffeeshop frontend, change to other port if you want.
