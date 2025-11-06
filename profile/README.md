@@ -1,6 +1,6 @@
 # Hi there 👋 Welcome to Coffee Shop
 ## Project Structure
-![img](https://cdn.jsdelivr.net/gh/leungll/MyImgHosting/img/Coffee-Shop-Architecture.png)
+![img](https://cdn.jsdelivr.net/gh/leungll/MyImgHosting/img/Coffee-Shop-Architecture-New.png)
 
 
 ## Deployment Instructions
